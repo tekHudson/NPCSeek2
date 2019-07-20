@@ -1,0 +1,13 @@
+## Interface: 80000
+## Title: NPCSeek2
+## Notes: Seek npcs, notify player
+## Author: MW
+## Version: 1.0.0.1
+## SavedVariables: DetectionList
+
+## X-Date: 2018-11-01T8:09:49Z
+## X-Category: Achievements
+## X-Email: marvel.me@gmail.com
+
+
+core.lua
